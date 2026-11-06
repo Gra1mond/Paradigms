@@ -49,6 +49,3 @@ func FindSqrt(a,b,c float64)[]float64{
 	return ts
 }
 
-func FindHandler(w http.ResponseWriter, r *http.Request){
-
-}
